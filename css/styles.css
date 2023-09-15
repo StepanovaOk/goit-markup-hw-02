@@ -92,6 +92,9 @@ h1 {
 /*section1*/
 
 /*solutions*/
+.solutions-title {
+  background-color: #ffffff;
+}
 
 .solutions-list {
   background-color: #ffffff;
