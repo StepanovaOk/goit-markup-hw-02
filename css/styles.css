@@ -59,10 +59,10 @@ a {
 /*header*/
 /*section1*/
 .title-section {
-  background-color: #ffffff;
+  background-color: #2e2f42;
 }
 
-h1 {
+.main-title {
   color: #ffffff;
   background-color: #2e2f42;
   text-align: center;
